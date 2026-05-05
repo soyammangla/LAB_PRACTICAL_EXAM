@@ -1,0 +1,25 @@
+{
+  "name": "lab_practical_exam",
+  "version": "1.0.0",
+  "description": "\"# LAB_PRACTICAL_EXAM\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soyammangla/LAB_PRACTICAL_EXAM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/soyammangla/LAB_PRACTICAL_EXAM/issues"
+  },
+  "homepage": "https://github.com/soyammangla/LAB_PRACTICAL_EXAM#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
